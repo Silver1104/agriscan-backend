@@ -1,8 +1,8 @@
 fastapi
 uvicorn
-tensorflow
-pillow
 numpy
+pillow
 requests
+tensorflow
 python-multipart
 pydantic
